@@ -12,8 +12,10 @@ services:
   # Severity	Code	Description	Project	File	Line	Suppression State
   # Error	CTC1031	Linux containers are not supported for ConsoleApp1 project.	docker-compose	
   # C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Sdks\Microsoft.Docker.Sdk\build\Microsoft.VisualStudio.Docker.Compose.targets	303	
-
-  #consoleapp1:
+  # I really appreiciate your understanding that I have too many applications that I run and they are configured with respect to 
+  # Docker Host Server for Linux
+  
+  # consoleapp1:
   #  image: ${DOCKER_REGISTRY-}consoleapp1
   #  build:
   #    context: .\ConsoleApp1

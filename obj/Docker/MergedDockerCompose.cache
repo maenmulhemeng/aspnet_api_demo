@@ -1,9 +1,4 @@
 services:
-  consoleapp1:
-    build:
-      context: C:\Users\maenm\source\repos\maen_vog_backend_codechallenge\ConsoleApp1
-      dockerfile: Dockerfile
-    image: consoleapp1
   vogcodechallenge.api:
     build:
       context: C:\Users\maenm\source\repos\maen_vog_backend_codechallenge
