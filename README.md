@@ -16,13 +16,13 @@ It has the Switch statment question
 ## The APi web application
 
 I build it with repect to a scpific structure:  
-1- Controllers
-2- Business Layers
-3- Access Layers 
-4- Models 
-5- Vistual Database in the service folder
+1- Controllers  
+2- Business Layers  
+3- Access Layers   
+4- Models   
+5- Vistual Database in the service folder  
 
-I add it two models, two access layers classes, two businesss layers classes and of course one controller. Of course we can use Entity Framework but I just solved like this to open the question of the architecture. 
+I added two models, two access layers classes, two businesss layers classes and of course one controller. Of course we can use Entity Framework but I just solved like this to open the question of the architecture. 
 
 # Thanks
 
