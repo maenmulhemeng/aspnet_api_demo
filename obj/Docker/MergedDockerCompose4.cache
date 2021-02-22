@@ -1,0 +1,21 @@
+services:
+  consoleapp1:
+    build:
+      context: C:\Users\maenm\source\repos\maen_vog_backend_codechallenge\ConsoleApp1
+      dockerfile: Dockerfile
+    image: consoleapp1
+  vogcodechallenge.api:
+    build:
+      context: C:\Users\maenm\source\repos\maen_vog_backend_codechallenge
+      dockerfile: VogCodeChallenge.API/Dockerfile
+    environment:
+      ASPNETCORE_ENVIRONMENT: Development
+      ASPNETCORE_URLS: https://+:443;http://+:80
+    image: vogcodechallengeapi
+    ports:
+    - target: 80
+    - target: 443
+    volumes:
+    - C:\Users\maenm\AppData\Roaming\ASP.NET\Https:/root/.aspnet/https:ro
+    - C:\Users\maenm\AppData\Roaming\Microsoft\UserSecrets:/root/.microsoft/usersecrets:ro
+version: '3.4'

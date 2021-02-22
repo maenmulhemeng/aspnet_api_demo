@@ -1,0 +1,8 @@
+C:\Users\maenm\source\repos\maen_vog_backend_codechallenge\obj\Debug\docker-compose.dcprojAssemblyReference.cache
+C:\Users\maenm\source\repos\maen_vog_backend_codechallenge\obj\Debug\docker-compose.dcproj.CoreCompileInputs.cache
+C:\Users\maenm\source\repos\maen_vog_backend_codechallenge\obj\Debug\docker-compose.dcproj.CopyComplete
+C:\Users\maenm\source\repos\maen_vog_backend_codechallenge\bin\Debug\appsettings.Development.json
+C:\Users\maenm\source\repos\maen_vog_backend_codechallenge\bin\Debug\appsettings.json
+C:\Users\maenm\source\repos\maen_vog_backend_codechallenge\bin\Debug\VogCodeChallenge.API.exe
+C:\Users\maenm\source\repos\maen_vog_backend_codechallenge\bin\Debug\VogCodeChallenge.API.dll
+C:\Users\maenm\source\repos\maen_vog_backend_codechallenge\bin\Debug\VogCodeChallenge.API.pdb
