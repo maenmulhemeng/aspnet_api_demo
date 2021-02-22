@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "ITvVaTZCH6W8EN+4w5ltQdPT+TsEQBCfH1ErS07jN4MmpV1vVASgItL1jvNtsN6DHArZC2/UvMHKSqBF7p2e3A==",
+  "dgSpecHash": "OlVvfs9/eJZ7g1HpHJj2nM+iXG8GVtqh0cVm/CGfAuKBBz5ECSWihaNLvf2UpKJxa97ibekyeGT4R28PfIdlPQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\maenm\\source\\repos\\maen_vog_backend_codechallenge\\VogCodeChallenge.API\\VogCodeChallenge.API.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\maenm\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.9\\microsoft.visualstudio.azure.containers.tools.targets.1.10.9.nupkg.sha512"
+  ],
   "logs": []
 }
